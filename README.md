@@ -179,3 +179,4 @@ docker run --rm --privileged -v /boot:/boot:ro -v /dev/cpu:/dev/cpu:ro -v /lib/m
    - Mitigation: microcode update + kernel update helping to protect various CPU internal buffers from unprivileged speculative access to data
    - Performance impact of the mitigation: low
 # spectre-meltdown-checker
+# spectre-meltdown-checker
